@@ -25,7 +25,7 @@ from rich.table import Table
 from rich.text import Text
 from rich import box
 
-import configparser, random, requests
+import configparser, random
 from time import sleep
 import os
 import cmd

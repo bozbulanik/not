@@ -19,11 +19,12 @@ See [commit change]() or See [release history]()
 
 ## License
 
-This project is licensed under the [GNU-GPLv3] License - see the LICENSE.md file for details
+This project is licensed under the GNU-GPLv3 License - see the LICENSE file for details
 
 ## Acknowledgments
 
 Inspiration is mainly from:
-* [nb](https://github.com/xwmx/nb/blob/master/nb)
+* [nb](https://github.com/xwmx/nb)
+
 Code snippets:
 * All over the internet.
