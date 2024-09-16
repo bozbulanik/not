@@ -1,0 +1,9 @@
+# environment
+venv/
+
+# pycache
+__pycache__/
+*.pyc
+
+main.py
+commands.txt
